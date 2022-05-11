@@ -4,6 +4,7 @@ function SlotNumber(props) {
   console.log(props);
   return <div className="slot_number">{props.num}</div>;
 }
+
 class SlotMachine extends React.Component {
   constructor() {
     super();
@@ -38,5 +39,4 @@ class SlotMachine extends React.Component {
     );
   }
 }
-
 export default SlotMachine;

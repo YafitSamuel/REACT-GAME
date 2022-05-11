@@ -26,9 +26,7 @@
   font-size: 60px;
   text-align: center;
 }
-
 .run{
-
   width: 400px;
   border: 14px solid red;
   border-radius: 6px;
@@ -36,6 +34,4 @@
   color: rgb(10, 4, 54);
   margin-left: 25px;
   margin-top: 30px;
-
-
 }
